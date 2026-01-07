@@ -1,1 +1,1 @@
-print("Hello")c:\pythonproj\database.py
+print("Hello")
